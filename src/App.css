@@ -12,7 +12,13 @@ table{
     text-align: center;
     box-shadow: 2px 5px 10px #e56905;
 }
-td, th {
+td {
     padding: 12px 15px;
-    border-color:  #8fd41a;
+    border-color: #27e2d8;
+    color: aqua;
+}
+th{
+    padding: 12px 15px;
+    border-color: #dfe1e1;
+    color: white;
 }
